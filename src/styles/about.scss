@@ -42,6 +42,7 @@
     }
   }
   .image-wrapper {
+    
     filter: grayscale(100%);
     width: 50%;
     display: flex;
@@ -60,6 +61,7 @@
   }
 }
 .image-wrapper:hover {
+  color: transparent;
   filter: grayscale(0%);
   cursor: pointer;
 }
