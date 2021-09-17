@@ -18,7 +18,7 @@ const Navbar = () => {
             <button onClick={() => scrollTo("#work")}>Work</button>
             <button onClick={() => scrollTo("#about")}>About</button>
             <button onClick={() => scrollTo("#contact")}>Contact</button>
-            <button onClick={(e) => {e.preventDefault(); window.location.href='http://google.com';
+            <button onClick={(e) => {e.preventDefault(); window.location.href='https://drive.google.com/file/d/16lXqdU-rYVdnjYhGDSUitPB4wA0MVCHZ/view?usp=sharing';
       }}
 > Resume</button>
           </div>
